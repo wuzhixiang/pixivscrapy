@@ -1,5 +1,5 @@
 # pixivscrapy
-最近实习要写爬虫，便自己撸了一个P站的爬虫练手
+最近实习要写爬虫，便自己撸了一个P站的爬虫练手：https://github.com/wuzhixiang/pixivscrapy
 
 功能：实现自动登录爬取关注作家的作品并且分文件夹存储
 
